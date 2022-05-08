@@ -1,4 +1,15 @@
-Hi 👋 My name is Azlan Abas ===========================  Software Engineer -----------------  Started dev in March 2020 and never looked back  * 🌍  I'm based in Ubud, Bali, Indonesia * 🖥️  See my portfolio at [https://azlanio-solutions.netlify.app/](http://azlanio-portfolio.netlify.app/) * ✉️  You can contact me at [coderazlan@gmail.com](mailto:coderazlan@gmail.com) * 🚀  I'm currently working on [https://azlaniobasewebapp20220507123840.azurewebsites.net/](http://azlan-tech.herokuapp.com/) * 🧠  I'm learning Go and Rust * 🤝  I'm open to collaborating on Web3, Raspberry PI, IOT. Neural Networks * ⚡  Also open to collaborate on Education Tech, M&A
+Hi 👋 My name is Azlan Abas
+===========================
+Software Engineer 
+-----------------  
+Started dev in March 2020 and never looked back  
+* 🌍  I'm based in Ubud, Bali, Indonesia 
+* 🖥️  See my portfolio at [https://azlanio-solutions.netlify.app/](http://azlanio-portfolio.netlify.app/) 
+* ✉️  You can contact me at [coderazlan@gmail.com](mailto:coderazlan@gmail.com) 
+* 🚀  I'm currently working on [https://azlaniobasewebapp20220507123840.azurewebsites.net/](http://azlan-tech.herokuapp.com/) 
+* 🧠  I'm learning Go and Rust 
+* 🤝  I'm open to collaborating on Web3, Raspberry PI, IOT. Neural Networks 
+* ⚡  Also open to collaborate on Education Tech, M&A
 
 ### Skills
 

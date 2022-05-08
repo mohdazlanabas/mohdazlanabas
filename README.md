@@ -30,4 +30,4 @@ Started dev in March 2020 and never looked back
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/azlanabas"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/mohdazlanabas"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>

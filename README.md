@@ -9,13 +9,15 @@ Software Engineer ll Developer
 I've been coding full time since 2020, my previous experience covers mechanical engineering and finance including operation excellence, project management, consulting hence many foundations related to computer science has been formally taught and since 2020 have completed several projects successfully with engaged clients. In between projects, i code full time to expand my repertoire.
 
 *   🌍  I'm based in Ubud, Bali
-*   🖥️  See my portfolio at [https://azlanio-portfolio.netlify.app/](http://azlan-tech.herokuapp.com/)
+*   🖥️  See my portfolio at [Portfolio](https://azlanio-portfolio.netlify.app/}
+*   🖥️  See a project sample at [Sample Project] (http://azlan-tech.herokuapp.com/)
 *   ✉️  You can contact me at [coderazlan@gmail.com](mailto:coderazlan@gmail.com)
 *   🚀  I'm currently working on [Data Migrations i.e MySQL => Postgresql {This changes over time as i undertake new projects}](http://azlan-blogsite.vercel.app/)
 *   🧠  I'm learning Rust
 *   🤝  I'm open to collaborating on Web Developnent, Social Enterprise, E-Commerce
 *   ⚡  I do running, cycling, swimming, yoga, diving, photography, coffee brewing among mamy other things.
-  </p> SKILLS   <p align="left">
+  
+</p> SKILLS   <p align="left">
                                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
                                 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>

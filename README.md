@@ -9,7 +9,7 @@ Software Engineer ll Developer
 I've been coding full time since 2020, my previous experience covers mechanical engineering and finance including operation excellence, project management, consulting hence many foundations related to computer science has been formally taught and since 2020 have completed several projects successfully with engaged clients. In between projects, i code full time to expand my repertoire.
 
 *   🌍  I'm based in Ubud, Bali
-*   🖥️  See my portfolio at [Portfolio](https://azlanio-portfolio.netlify.app/}
+*   🖥️  See my portfolio at [Portfolio](https://azlanio-portfolio.netlify.app/)
 *   🖥️  See a project sample at [Sample Project](http://azlan-tech.herokuapp.com/)
 *   ✉️  You can contact me at [coderazlan@gmail.com](mailto:coderazlan@gmail.com)
 *   🚀  I'm currently working on [Data Migrations i.e MySQL => Postgresql {This changes over time as i undertake new projects}](http://azlan-blogsite.vercel.app/)

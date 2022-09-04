@@ -10,7 +10,7 @@ I've been coding full time since 2020, my previous experience covers mechanical 
 
 *   🌍  I'm based in Ubud, Bali
 *   🖥️  See my portfolio at [Portfolio](https://azlanio-portfolio.netlify.app/}
-*   🖥️  See a project sample at [Sample Project] (http://azlan-tech.herokuapp.com/)
+*   🖥️  See a project sample at [Sample Project](http://azlan-tech.herokuapp.com/)
 *   ✉️  You can contact me at [coderazlan@gmail.com](mailto:coderazlan@gmail.com)
 *   🚀  I'm currently working on [Data Migrations i.e MySQL => Postgresql {This changes over time as i undertake new projects}](http://azlan-blogsite.vercel.app/)
 *   🧠  I'm learning Rust

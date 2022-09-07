@@ -4,7 +4,7 @@ Hi 👋 My name is Azlan Abas
 Software Engineer ll Developer
 ------------------------------
 
-</p>  INTRODUCTION   <p align="left">
+# INTRODUCTION
 
 I've been coding full time since 2020, my previous experience covers mechanical engineering and finance including operation excellence, project management, consulting hence many foundations related to computer science has been formally taught and since 2020 have completed several projects successfully with engaged clients. In between projects, i code full time to expand my repertoire.
 
@@ -47,7 +47,7 @@ I've been coding full time since 2020, my previous experience covers mechanical 
                                 <a href="https://trufflesuite.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/truffle-colored.svg" width="36" height="36" alt="Truffle" /></a>
                                 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 
-</p>  SOCIALS   <p align="left">
+# SOCIALS
                                 <a href="https://www.facebook.com/mohdazlanabas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>     
                                 <a href="https://www.github.com/mohdazlanabas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>  
                                 <a href="http://www.instagram.com/vitajuwel.id" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
@@ -55,7 +55,7 @@ I've been coding full time since 2020, my previous experience covers mechanical 
                                 <a href="https://www.stackoverflow.com/users/17546948" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>  
                                 <a href="https://www.twitter.com/mohdazlanabas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
                                 
-</p>  GITHUB STATS   <p align="left">
+# GITHUB STATS
                                 <a href="http://www.github.com/mohdazlanabas"><img src="https://github-readme-stats.vercel.app/api?username=mohdazlanabas&show_icons=true&hide=stars,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="mohdazlanabas's GitHub stats" /></a>
                               <a href="http://www.github.com/mohdazlanabas"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdazlanabas&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/mohdazlanabas" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdazlanabas&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 

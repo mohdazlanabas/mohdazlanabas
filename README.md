@@ -68,7 +68,7 @@ I've been coding full time since 2020, my previous experience covers mechanical 
   
 </p> 
 
-GITHUB STATS 
+## GITHUB STATS 
 
 <p align="left"> 
                                 <a href="https://github.com/mohdazlanabas" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdazlanabas&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages"  width="33%" alt="Top Languages" /></a>

@@ -26,7 +26,7 @@ I've been coding full time since 2020, my previous experience covers mechanical 
                                  <a href="https://www.facebook.com/mohdazlanabas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
 </p>
   
-</p>  SKILLS   <p align="left">
+SKILLS   <p align="left">
                                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
                                 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -54,9 +54,13 @@ I've been coding full time since 2020, my previous experience covers mechanical 
                                 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
                                 <a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
                                 <a href="https://trufflesuite.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/truffle-colored.svg" width="36" height="36" alt="Truffle" /></a>
-                                <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-                                
-</p>  GITHUB STATS  <p align="left">
+                                <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a> 
+  
+</p> 
+
+<p align="left">
+GITHUB STATS  
+  
                                 <a href="https://github.com/mohdazlanabas" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdazlanabas&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages"  width="33%" alt="Top Languages" /></a>
                               <a href="http://www.github.com/mohdazlanabas"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdazlanabas&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="33%" /></a>
                               <a href="http://www.github.com/mohdazlanabas"><img src="https://github-readme-stats.vercel.app/api?username=mohdazlanabas&show_icons=true&hide=stars,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" width="33%"  alt="mohdazlanabas's GitHub stats" /></a>

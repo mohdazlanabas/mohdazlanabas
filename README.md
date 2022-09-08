@@ -10,7 +10,7 @@ Software Engineer ll Developer
 
 <p align="left">
 
-I've been coding full time since 2020, my previous experience covers mechanical engineering and finance including operation excellence, project management, consulting hence many foundations related to computer science has been formally taught and since 2020 have completed several projects successfully with engaged clients. In between projects, i code full time to expand my repertoire.
+I've been coding full time since 2020, my previous experience covers mechanical engineering and finance including operation excellence, project management, consulting hence many foundations related to computer science has been formally taught and since 2020 have completed several projects successfully with engaged clients. Further details in Linkedin as pointed below. In between projects, i code full time to expand my repertoire.
 
 *   🌍  I'm based in Ubud, Bali
 *   🖥️  See my portfolio at [Portfolio](https://azlanio-portfolio.netlify.app/)

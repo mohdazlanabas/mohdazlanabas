@@ -79,7 +79,8 @@ I've been programming full time since 2020, my previous experience covers mechan
                               
 # DIRECTORY OF SUNCCTINCT REPOS
 
-## JAVA 
+## JAVA
+
 Spring-MongoDB
 Integrate Spring Boot and MongoDB
 
@@ -89,8 +90,81 @@ Java Practice
 Java Spring Boot Web App 2
 - Webpage with Java Springboot back end
 
+Java Login
+- Login Auth on Java
+
+Java_demo_aws_dev
+- Java app deployed on AWS
+
+Java_spring_maven
+- Spring Maven Java App Boilerplate
+
+## DART & TYPESCRIPT & SOLIDITY
+
+Dart Language
+- Dart syntax fimilarization
+
+Framework_start_files
+- C#, Java, Solidity project tsrater template
+
+Typescript 
+-	A typescript feature language on top of JS
+
+Smart Contract- Storage System
+-	Blockchain Storage System written in Solidity
+
+Smart Contract- Bank Protocol
+-	Blockchain Smart Contract Baking Solution written in Solidity
+
+Smart Contract- Lottery
+-	Blockchain Smart Contract Lottery Solution written in Solidity
+
+Smart Contract- Get Funding
+-	Blockchain Smart Contract Etheruem Protocol Funding Solution written in Solidity
+
+## C SHARP
+
+CS Deploy ISS App
+- C# App with IIS server
+
+CS Authn
+-	Login and Authentication App
+
+CS Bank Acct
+-	A bank protocol console App
+
+CS Blazor Razor NVC CRUS
+-	A three tech .NET solution in one App
+
+CS Blazor Page
+-	Blazor  based Website
+
+CS Class 
+-	Language foundation syntax practice
+
+CS Publish
+-	C# App test production publish on Windows and Mac
+
+CS Voice Synth
+-	A voice syntersizer with input capability
+
+CS Sudoku
+-	Sudoku App on CSharp
+
+CS WPF App
+-	dotNET WPF App
+
+CS Telegram Bot
+-	A Telegram Bot App
+
+CS MLApp
+-	A Machine learning using neural network C# solution
+
+CS Calendar Windows
+-	A calendar App
+
 ## PYTHON
-  
+
 Python Django
 - Python Django Project Boilerplate
 
@@ -115,20 +189,6 @@ Python Practice
 Auto Keyboard with Python
 - Pythonscript of keyboard stroke manipulation and tracking
 
-## SOLIDITY
-  
-Smart Contract- Storage System
--	Blockchain Storage System written in Solidity
-
-Smart Contract- Bank Protocol
--	Blockchain Smart Contract Baking Solution written in Solidity
-
-Smart Contract- Lottery
--	Blockchain Smart Contract Lottery Solution written in Solidity
-
-Smart Contract- Get Funding
--	Blockchain Smart Contract Etheruem Protocol Funding Solution written in Solidity
-  
 ## JAVASCRIPT 
 
 Heroku-Sample API
@@ -230,3 +290,27 @@ Project eSchool
 
 JS Mern Crud Diary
 -	CRUD operation build using EJS
+
+JS Chat Video
+-	Chat video app
+
+JS Streaming
+- A live streaming web app
+
+JS Blogsite
+- Blogsite with Javascript and Markdown
+
+JS Gif Player
+JS Vanilla Gif Player Site for Embedding
+
+Netlify-azlanio-main
+- A portfolio site of several usable apps
+
+JS Intropage
+- Simple HTML only starter boilerplate
+
+JS_css_highlight
+- CSS Practice
+
+JS Redux
+- A Redux implementation

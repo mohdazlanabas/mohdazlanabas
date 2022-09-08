@@ -72,9 +72,10 @@ GITHUB STATS
 
 <p align="left"> 
                                 <a href="https://github.com/mohdazlanabas" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdazlanabas&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages"  width="33%" alt="Top Languages" /></a>
-  
                               <a href="http://www.github.com/mohdazlanabas"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdazlanabas&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="33%" /></a>
                               <a href="http://www.github.com/mohdazlanabas"><img src="https://github-readme-stats.vercel.app/api?username=mohdazlanabas&show_icons=true&hide=stars,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" width="33%"  alt="mohdazlanabas's GitHub stats" /></a>
+
+  </p>
                               
 # DIRECTORY OF SUNCCTINCT REPOS
 

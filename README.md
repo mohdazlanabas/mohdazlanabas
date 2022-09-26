@@ -1,7 +1,7 @@
 Hi 👋 My name is Azlan Abas
 ===========================
 
-Software Engineer ll Developer
+Software Engineer || Developer
 ------------------------------
 
 </p>  

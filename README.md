@@ -7,7 +7,7 @@ Software Engineer || Developer
 I've been programming full time since 2020, my previous experience covers mechanical engineering and finance including operation excellence, project management, consulting hence many foundations related to computer science has been formally taught and since 2020 have completed several projects successfully with engaged clients. Further details in Linkedin as pointed below. In between projects, i code full time to expand my repertoire.
 
 * 🌍  I'm based in I'm based in Ubud, Bali
-* 🖥️  See my portfolio at (Portfoli[https://azlanio-portfolio.netlify.app/])
+* 🖥️  See my portfolio at [Portfolio(https://azlanio-portfolio.netlify.app/)]
 * ✉️  You can contact me at [You can contact me at coderazlan@gmail.com](mailto:You can contact me at coderazlan@gmail.com)
 * 🚀  I'm currently working on [I'm currently working on Rust Lang {This changes over time as i undertake new projects}](http://azlan-tech.herokuapp.com/ )
 * 🧠  I'm learning Rust Programming Language

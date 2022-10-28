@@ -77,14 +77,19 @@ I've been programming full time since 2020, my previous experience covers mechan
 
 <a href="https://www.buymeacoffee.com/ohdazlanabas"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-<div width="100%" align="center"></div><br /><br /><br />
+<div width="100%" align="center"></div><br />
                               
 # DIRECTORY OF SUNCCTINCT REPOS
+
+## PRACTICES
+- Rust Programming Language
+- C++ Programming Language
+- Go Programming Language
 
 ## JAVA
 
 Spring-MongoDB
-Integrate Spring Boot and MongoDB
+- Integrate Spring Boot and MongoDB
 
 Java Practice
 -	Java Foundation and Intermediate scripts practice
@@ -164,6 +169,10 @@ CS MLApp
 
 CS Calendar Windows
 -	A calendar App
+
+CD Practices
+- Design Patterns
+- Data Sttructures and Algorithms
 
 ## PYTHON
 

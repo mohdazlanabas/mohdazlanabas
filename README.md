@@ -8,8 +8,9 @@ I've been programming full time since 2020, my previous experience covers mechan
 
 * 🌍  I'm based in I'm based in Ubud, Bali
 * 🖥️  See my [Portfolio](http://azlanio-portfolio.netlify.app/)
-* ✉️  You can contact me at [You can contact me at coderazlan@gmail.com](mailto:You can contact me at coderazlan@gmail.com)
-* 🚀  I'm currently working on [I'm currently working on Rust Lang {This changes over time as i undertake new projects}](http://azlan-tech.herokuapp.com/ )
+* 🖥️  See a [Project Here](http://azlan-tech.herokuapp.com/)
+* ✉️  You can contact me at [email](mailto:You can contact me at coderazlan@gmail.com)
+* 🚀  I'm currently working on I'm currently working on Rust Lang, this changes over time as i undertake new projects.
 * 🧠  I'm learning Rust Programming Language
 * 🤝  I'm open to collaborating on I'm open to collaborating on Web Developnent, Social Enterprise, E-Commerce
 * ⚡  I do running, cycling, swimming, yoga, diving, photography, coffee brewing among many other things.

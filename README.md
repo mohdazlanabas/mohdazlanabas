@@ -77,7 +77,7 @@ I've been programming full time since 2020, my previous experience covers mechan
 
 <a href="https://www.buymeacoffee.com/ohdazlanabas"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"></div><br /><br /><br />
                               
 # DIRECTORY OF SUNCCTINCT REPOS
 

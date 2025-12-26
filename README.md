@@ -125,13 +125,13 @@ I've been programming full time since 2020. My previous experience covers mechan
 
 ### 📊 GitHub Stats
 
-<a href="http://www.github.com/mohdazlanabas"><img src="https://github-readme-stats.vercel.app/api?username=mohdazlanabas&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&cache_seconds=1800" alt="mohdazlanabas's GitHub stats" /></a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohdazlanabas&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)
 
-<a href="http://www.github.com/mohdazlanabas"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohdazlanabas&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" /></a>
+![GitHub Streak](https://streak-stats.demolab.com?user=mohdazlanabas&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
-<a href="http://www.github.com/mohdazlanabas"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mohdazlanabas&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+![GitHub Commits Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohdazlanabas&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 
-<a href="https://github.com/mohdazlanabas"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdazlanabas&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&cache_seconds=1800&layout=compact" alt="Top Languages" /></a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdazlanabas&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact)
 
 ---
 
